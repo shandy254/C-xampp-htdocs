@@ -1,0 +1,27 @@
+ini adalah pembelajaran PHP untuk pemula dari pak Sandhika Galih (UNPAS)
+        video sebelumnya berisi tentang 'intro','Sejarah & Karakteristik PHP',
+
+        kemudian pada 
+        pertemuan 1 : persiapan lingkungan
+        pertemuan 2 : sintaks php (operator, logika, dkk)
+        pertemuan 3 : Struktur Kendali/ control flow (perulangan & kondisi)
+        pertemuan 4 : Function (
+            built in Function : 'date(), time(), mktime(), & strtotime()' &
+            user definition Function : 'fungsi buatan dari user' )
+
+pertemuan 5 : array 
+	latihan 1, array
+	lat 2, menampilkan array (foreach)
+	lat 3, array angka
+
+pertemuan 6 : ASSOCIATIVE ARRAY
+
+pertemuan 7 : 
+	lat 1, mengirim dg GET
+	lat 2, menampilkan dg GET
+	lat 3,4,5, form-isset()-POST
+
+pertemuan 8 : intro CRUD
+
+pertemuan 9 : Read
+	lat 1, mengambil data (fetch) dari tabel

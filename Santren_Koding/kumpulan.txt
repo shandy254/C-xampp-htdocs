@@ -1,0 +1,6 @@
+tugas#1	--> inspect
+tugas#2	--> web online pertama
+tugas#3 --> freecodecamp html
+tugas#4 --> freecodecamp CSS + card
+tugas#5 --> bootstrap NON CDN + 3 halaman html (nav, jumbotron, card[row,col])
+tugas#6 --> clone web santrenkoding.org

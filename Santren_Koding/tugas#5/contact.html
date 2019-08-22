@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Sky</title>
+    <link rel="stylesheet" type="text/css" href="bootstrap.css">
+    <link rel="icon" href="img/s.jpg">
+
+    <style>
+        .f{
+            height: 6cm;
+            width: 11cm;
+            float: right;
+            margin: 3cm 2cm 0 0;
+            
+        }
+        .g{
+            height: 50px;
+            width: 50px;
+            opacity: 0.6;
+        }
+        .g:hover{
+            opacity: 0.8;
+        }
+        .g1{
+            height: 100px;
+            width: 400px;
+            margin: 3cm 0 0 2cm;
+            
+            float: left;
+        }
+    </style>
+
+</head>
+<body style="background: url(img/1.png) fixed no-repeat 100%;">
+
+    <nav>
+        <ul class="nav justify-content-center">
+            <li class="nav-item">
+                <a class="nav-link active" href="index.html">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="about.html">About</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="contact.html">Contact us</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true" 
+                style="font-family:sans-serif; font-size: 20px; 
+                color: rgb(104, 255, 185); opacity: 0.5">Sky</a>
+            </li>
+        </ul>
+    </nav>
+
+    <!--  style="margin: 3cm 0 0 3cm; width: 200px; float: left " -->
+    
+    <div class="g1">
+        <h1 style="font-size: 70px">  Say, hi  </h1> 
+        <br>
+        <h4> Contact : </h4> 
+        <img src="img/6.png" class="g">
+        <img src="img/7.png" class="g">
+        <img src="img/11.png" class="g">
+    </div>
+
+    <form class="f">
+
+        <h3>don't hesitate to give advice</h3>
+        <p>
+            we are very helped by your text, thank you !!
+        </p>
+        
+        <div class="row">
+            <div class="col">
+                <label for="a">Name </label> <br>
+                <input id="a" type="text" class="form-control" placeholder=" name ">    
+            </div>
+
+            <div class="col">
+                <label for="b">Email / phone </label> <br>
+                <input id="b" type="text" class="form-control" placeholder=" Email / phone ">
+            </div>
+        </div>
+        
+        <br>
+
+        <div class="row">
+            <div class="col">
+                <label for="c">Message <br>
+                    <textarea type="text" class="form-control" id="c" cols="100%" rows="4"></textarea>
+                </label>
+            </div>
+        </div>
+
+        <button type="submit" class="btn btn-primary" style="margin-top:0.3cm; margin-left: 0.3cm; 
+        border-radius: 24px"> Submit </button>
+        
+    </form>
+
+</body>
+
+</html>

@@ -1,0 +1,78 @@
+
+body{
+    background: url("Programmer-Developer-Wallpaper.jpg") no-repeat fixed center;
+    
+}
+
+.menu{
+    background : rgb(238, 58, 58);
+    color : rgb(68, 125, 148);
+    margin : 10px;
+    padding : 20px;
+}
+
+.home{
+    margin : 10px;
+    padding : 10px;
+    background :  rgb(72, 60, 122);
+    padding-top: 20px;
+    transition: 0.5s;
+}
+.daftar{
+    margin-left : 10px;
+    margin-bottom: 10px;
+    padding : 10px;
+    background : rgb(53, 45, 45);
+    color: rgb(154, 201, 68)
+}
+.data{
+    margin-left : 10px;
+    margin-bottom: 10px;
+    padding : 10px;
+    background : rgb(53, 45, 45);
+    color: rgb(154, 201, 68)
+}
+
+.home:hover{
+    margin : 10px;
+    padding : 10px;
+    background : rgb(142, 229, 255);
+}
+.daftar:hover{
+    margin-left: 10px;
+    padding : 10px;
+    background : rgb(40, 35, 82);
+    color: white;
+}
+.data:hover{
+    margin-left: 10px;
+    padding : 10px;
+    background : rgb(40, 35, 82);
+    color: white;
+}
+
+.home1:hover{
+    margin : 10px;
+    padding : 10px;
+    background : rgb(142, 229, 255);
+}
+.daftar1:hover{
+    margin-left: 10px;
+    padding : 10px;
+    background : rgb(40, 35, 82);
+    color: white;
+}
+.data1:hover{
+    margin-left: 10px;
+    padding : 10px;
+    background : rgb(40, 35, 82);
+    color: white;
+}
+
+
+.text{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 7%;
+    margin-left: 5%;
+    color: rgb(132, 145, 62);
+}

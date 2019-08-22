@@ -1,0 +1,167 @@
+
+html,body{
+    height:100%;
+}
+
+#container{
+    min-height:100%;
+    position:relative;
+}
+
+#content{
+    padding:10px;
+     
+    padding-bottom:60px; /*sama atau lebih besar dari tinggi footer*/
+    color: red;
+    
+}
+
+
+
+#footer{
+    opacity: 0.2;
+    height:40px;
+    background:white;
+    color:black;
+    padding-bottom: 10px;
+ 
+    position:absolute;
+    bottom:0px;
+ 
+    width:100%; /*biar memenuhi layar*/
+}
+
+.bg{
+    background: url("../images/bgh2.jpg") no-repeat fixed center;
+}
+
+.menu{
+    opacity: 0.4;
+    background: white;
+    height: 30px;
+    padding-top: 13px;
+}
+
+.bawah{
+    background: white;
+    height: 60px;
+    bottom: 0px;
+}
+
+/*
+.menu2{
+    background: black;
+    height: 50px;
+    width: 300px;
+    margin-left: 5cm;
+} 
+*/
+
+#home:hover{
+    background: black;
+    color: aqua;
+}
+#about:hover{
+    background: black;
+    color: aqua;
+}
+#blog:hover{
+    background: black;
+    color: aqua;
+}
+#contact:hover{
+    background: black;
+    color: aqua;
+}
+
+
+#recent{
+    background: whitesmoke;
+    opacity: 0.3;
+    padding:10px;
+    margin-top: 1cm;
+    
+     
+     /*sama atau lebih besar dari tinggi footer*/
+    color: red;
+    
+}
+
+#rec{
+    background: black;
+    opacity: 0.7;
+    margin-top: 1cm;
+    margin-right: 50%;
+    padding:10px;
+     
+    padding-bottom:60px; /*sama atau lebih besar dari tinggi footer*/
+    color: red;
+    
+}
+
+
+#desc{
+    background: white;
+    color: red;
+    height:5cm;
+    width: 8cm;
+    opacity: 0.6;
+    text-align: center;
+    padding-top: 1cm;
+    margin-left: 13cm;
+    margin-top: 3cm;
+}
+#desc:hover{
+    background: black;
+    color: aquamarine;
+    height:5cm;
+    width: 8cm;
+    opacity: 0.3;
+    text-align: center;
+    padding-top: 1cm;
+    margin-left: 13cm;
+    margin-top: 3cm;
+}
+#desc2{
+    background: white;
+    color: red;
+    height:5cm;
+    width: 8cm;
+    opacity: 0.6;
+    text-align: center;
+    padding-top: 1cm;
+    margin-left: 13cm;
+    margin-top: 3cm;
+}
+#desc2:hover{
+    background: black;
+    color: aquamarine;
+    height:5cm;
+    width: 8cm;
+    opacity: 0.3;
+    text-align: center;
+    padding-top: 1cm;
+    margin-left: 13cm;
+    margin-top: 3cm;
+}
+
+
+#artikel{
+    background: whitesmoke;
+    margin: 4cm;
+    padding: 2cm;
+    opacity: 0.8;
+}
+#p{
+    color: black;
+}
+
+
+.subres:hover{
+    opacity:0.8;
+}
+
+#output{
+    color:whitesmoke;
+}
+

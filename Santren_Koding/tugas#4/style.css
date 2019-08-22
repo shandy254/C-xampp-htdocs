@@ -1,0 +1,52 @@
+.h{
+    padding: 16px;
+
+}
+#card{
+    min-width: 0;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 4px;
+}
+
+
+/* NAV */
+ul li  {
+    display:  inline-table;
+    list-style: none;
+    padding: 2px 20px 2px 10px;
+    margin-left: 1cm;
+
+    background: rgb(138, 138, 138);
+}
+ul li a:hover{
+    
+    color: rgb(46, 231, 255);
+}
+ul li a{
+    font-size: 20px;
+    color: aqua;
+    text-decoration:none;
+}
+
+
+
+/* CARD */
+#card1{
+    width: 7cm;
+    height: 8cm;
+    margin: 2cm;
+    padding: 2cm;
+    background: rgb(255, 122, 255);
+    text-align: center;
+    border-radius: 20px;
+}
+#card1:hover{
+    
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)!important;
+}
+
+.h1{
+    padding: 16px;
+}

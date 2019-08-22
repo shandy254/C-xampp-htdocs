@@ -1,0 +1,261 @@
+
+*{
+	margin:0; 
+	padding:0;
+}
+
+.container{
+    height: 90%;
+}
+
+body{
+    background: url("gambar/Programmer-Developer-Wallpaper.jpg") no-repeat fixed center;
+    
+}
+
+
+/* Header */
+
+.atas{
+    
+    margin: 0%;
+    padding-bottom: 1cm;
+    background: rgb(255, 255, 255);
+    opacity: 0.6;
+}
+.atas2{
+    
+    margin-left: 2cm;
+    padding-top: 0.5cm;
+    background: rgb(255, 255, 255);
+    opacity: 0.6;
+}
+
+
+
+/* Nav */
+
+.menu{
+    background : rgb(201, 201, 201);
+    color : rgb(68, 125, 148);
+    margin : 10px;
+    padding : 20px;
+    opacity: 0.9;
+}
+
+.home{
+    margin : 10px;
+    padding : 10px;
+    background :  rgb(112, 126, 50);
+    padding-top: 20px;
+    transition: 0.5s;
+}
+.about{
+    margin-left : 10px;
+    margin-bottom: 10px;
+    padding : 10px;
+    
+    color: black;
+}
+.trending{
+    margin-left : 10px;
+    margin-bottom: 10px;
+    padding : 10px;
+    
+    color: black;
+}
+
+
+.three{
+    margin: 5cm;
+}
+
+.home:hover{
+    margin : 10px;
+    padding : 10px;
+    background : rgb(134, 134, 134);
+}
+.about:hover{
+    margin-left: 10px;
+    padding : 10px;
+    
+    color: rgb(134, 134, 134);;
+}
+.trending:hover{
+    margin-left: 10px;
+    padding : 10px;
+    
+    color: rgb(134, 134, 134);;
+}
+
+
+/* ABOUT */
+
+.form{
+    font-family: 'Courier New', Courier, monospace;
+    
+    margin-left: 2cm;
+    color: rgb(132, 145, 62);
+
+    width: 10cm;
+    margin-top: 8cm;
+    
+}
+
+.com{
+    margin: 1cm;
+}
+
+.text{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 7%;
+    margin-left: 2cm;
+    color: rgb(132, 145, 62);
+    
+}
+
+#fb:hover{
+    transform: rotate(360deg);
+    transition-duration: 0.6s;
+    opacity: 0.7;
+}
+#tw:hover{
+    transform: rotate(360deg);
+    transition-duration: 0.6s;
+    opacity: 0.7;
+}
+.icon{
+    opacity: 0.3;
+}
+
+
+/* TRENDING */
+
+.kotak{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 7%;
+    margin-left: 5%;
+    color: rgb(244, 255, 92);
+
+    width: 30%;
+    padding : 0.5cm;
+    background: rgb(104, 104, 104);
+    border-radius: 20%;
+    opacity: 0.5;
+    transition-duration: 0.4s;
+}
+.kotak:hover{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 7%;
+    margin-left: 5%;
+    color: yellow;
+
+    width: 30%;
+    padding : 0.5cm;
+    background: rgb(104, 104, 104);
+    border-radius: 10%;
+    opacity: 0.8;
+}
+.kata{
+    margin-left: 3cm;
+}
+
+
+/* ARTIKEL */
+
+.artikel1{
+    background: rgb(126, 126, 126);
+    opacity: 0.9;
+    border-radius: 10%;
+
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 7%;
+    margin-left: 5%;
+    width: 35%;
+    padding: 0.5cm;
+    color: yellow;
+    float: left;
+    
+}
+
+.list{
+    background: rgb(126, 126, 126);
+    opacity: 0.9;
+    border-radius: 10%;
+
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 7%;
+    margin-right: 5%;
+    width: 30%;
+    padding: 0.5cm;
+    color: yellow;
+    float: right;
+    
+    
+}
+#list1{
+    padding: 0.2cm;
+    opacity: 0.9;
+    margin: 0;
+}
+#list2{
+    padding: 0.2cm;
+    opacity: 0.9;
+    margin: 0;
+}
+#list3{
+    padding: 0.2cm;
+    opacity: 0.9;
+    margin: 0;
+}
+#list4{
+    padding: 0.2cm;
+    opacity: 0.9;
+    margin: 0;
+}
+#list5{
+    padding: 0.2cm;
+    opacity: 0.9;
+    margin: 0;
+}
+#list6{
+    padding: 0.2cm;
+    opacity: 0.9;
+    margin: 0;
+}
+#list1:hover{
+    background: rgb(218, 218, 218);
+    color: black;
+    padding: 0.2cm;
+    opacity: 0.9;
+}
+#list2:hover{
+    background: rgb(218, 218, 218);
+    color: black;
+    padding: 0.2cm;
+    opacity: 0.9;
+}
+#list3:hover{
+    background: rgb(218, 218, 218);
+    color: black;
+    padding: 0.2cm;
+    opacity: 0.9;
+}
+#list4:hover{
+    background: rgb(218, 218, 218);
+    color: black;
+    padding: 0.2cm;
+    opacity: 0.9;
+}
+#list5:hover{
+    background: rgb(218, 218, 218);
+    color: black;
+    padding: 0.2cm;
+    opacity: 0.9;
+}
+#list6:hover{
+    background: rgb(218, 218, 218);
+    color: black;
+    padding: 0.2cm;
+    opacity: 0.9;
+}
