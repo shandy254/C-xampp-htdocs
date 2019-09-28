@@ -44,14 +44,16 @@ echo "fin";
 /*
 requirement :
 ●   	menggunakan REGEX
-●   	Format username: merupakan kombinasi dari huruf kecil, 
-                         huruf besar dan angka dengan panjang 5-9 karakter. 
-                         Username tidak boleh diawali dengan angka / karakter special.
-●   	Format password: merupakan kombinasi dari huruf kecil, 
-                         huruf besar minimal satu karakter, 
-                         angka minimal satu karakter, 
-                         dan karakter spesial minimal satu karakter 
-                         dan harus memiliki karakter simbol ‘@’  dan panjang minimal 8 karakter.
+●   	Format username: 
+            merupakan kombinasi dari huruf kecil 
+            dan huruf besar dengan panjang tepat 6 karakter. 
+            Username tidak boleh terdapat angka / karakter special.
+●   	Format password: 
+            merupakan kombinasi dari huruf kecil, 
+            huruf besar minimal satu karakter, angka minimal satu karakter, 
+            dan karakter spesial minimal satu karakter 
+            dengan panjang password 5-10 karakter. 
+            Password juga harus diawali oleh angka “7”.
 
 */
 
